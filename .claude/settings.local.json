@@ -3,7 +3,12 @@
     "allow": [
       "Bash(git -C /Users/nakajimakenta/Desktop/ホームページ営業 status)",
       "Bash(gh auth *)",
-      "Bash(brew --version)"
+      "Bash(brew --version)",
+      "Bash(git checkout *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(gh pr create --title 'SEO改善: meta descriptionタグを追加' --body ' *)"
     ]
   }
 }
