@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/nakajimakenta/Desktop/ホームページ営業 status)",
+      "Bash(gh auth *)",
+      "Bash(brew --version)"
+    ]
+  }
+}
